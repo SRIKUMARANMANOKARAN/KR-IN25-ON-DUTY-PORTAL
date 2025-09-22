@@ -1,0 +1,5 @@
+{
+  "name": "KR IN25 On-Duty Portal",
+  "description": "A web application for students to submit on-duty requests and for administrators to review and approve them.",
+  "requestFramePermissions": []
+}
